@@ -42,3 +42,7 @@ and download the zip, uncompress this zip and extract the folder. The folder wil
 Place this folder in your mod folder in your Moodle directory.
 
 > The reason this is not the recommended method is due to the fact you have to over-write the contents of this folder to apply any future updates to the simplecertificate module. In the above method there is a simple command to update the files.
+
+## Test MR
+
+This is just a test.
